@@ -1,0 +1,4 @@
+Имя первого пилота  Имя второго пилота  Имя радиста  Имя навигатора  Имя первой стюардессы   Имя второй стюардессы   Имя третьей стюардессы
+     ;Vadim               ;Pet9           ;Roman         ;Nikolai            ;Jana                  ;Nast9                  ;Anna;
+     ;Volodya             ;Alexandr       ;Dmitriy       ;Anton              ;Tan9                  ;Kat9                   ;Nika;
+     ;Pavel               ;Mikhail        ;Petr          ;Valeriy            ;Lera                  ;Alexandra              ;Krista;
